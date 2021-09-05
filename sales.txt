@@ -1,0 +1,53 @@
+Product name: Rice - Quantity bought:2 - Price:67 
+Product name: Dal - Quantity bought:3 - Price:114 
+Product name: Sugar - Quantity bought:4 - Price:240 
+Product name: Biscuit - Quantity bought:5 - Price:40 
+Product name: Rajma - Quantity bought:6 - Price:250 
+Product name: Shampoo - Quantity bought:7 - Price:900 
+Product name: Livon Serum - Quantity bought:8 - Price:1750 
+Product name: Ketchup - Quantity bought:9 - Price:1000 
+Product name: Wheat - Quantity bought:10 - Price:378 
+Product name: Noodles - Quantity bought:11 - Price:550 
+**************************************************************************
+Sales generated on Sun Sep  5 10:54:17 2021 is of Rs- 5289 
+**************************************************************************
+Product name: Dal - Quantity bought:3 - Price:114 
+Product name: Pasta - Quantity bought:3 - Price:136 
+Product name: Paneer - Quantity bought:6 - Price:1250 
+Product name: Chilliflakes - Quantity bought:3 - Price:180 
+Product name: Soap - Quantity bought:2 - Price:120 
+**************************************************************************
+Sales generated on Sun Sep  5 10:56:27 2021 is of Rs- 1800 
+**************************************************************************
+Product name: Rice - Quantity bought:11 - Price:670 
+Product name: Dal - Quantity bought:6 - Price:285 
+Product name: Sugar - Quantity bought:6 - Price:400 
+Product name: Biscuit - Quantity bought:6 - Price:50 
+Product name: Rajma - Quantity bought:7 - Price:300 
+Product name: Shampoo - Quantity bought:6 - Price:750 
+Product name: Livon Serum - Quantity bought:11 - Price:2500 
+Product name: Ketchup - Quantity bought:4 - Price:375 
+Product name: Pasta - Quantity bought:6 - Price:340 
+**************************************************************************
+Sales generated on Sun Sep  5 10:58:00 2021 is of Rs- 5670 
+**************************************************************************
+
+Product name: Rice - Quantity bought:6 - Price:335 
+Product name: Dal - Quantity bought:7 - Price:342 
+Product name: Sugar - Quantity bought:19 - Price:1440 
+**************************************************************************
+Sales generated on Sun Sep  5 11:03:47 2021 is of Rs- 2117 
+**************************************************************************
+Product name: Sugar - Quantity bought:4 - Price:240 
+Product name: Pasta - Quantity bought:12 - Price:748 
+Product name: Refined Oil - Quantity bought:30 - Price:3190 
+Product name: Hair oil - Quantity bought:3 - Price:140 
+Product name: Raisins - Quantity bought:16 - Price:2550 
+Product name: Poha - Quantity bought:6 - Price:325 
+Product name: Besan - Quantity bought:19 - Price:720 
+Product name: Chole - Quantity bought:20 - Price:1520 
+Product name: Icecream - Quantity bought:6 - Price:500 
+Product name: Soap - Quantity bought:31 - Price:3600 
+**************************************************************************
+Sales generated on Sun Sep  5 11:04:49 2021 is of Rs- 13533 
+**************************************************************************
